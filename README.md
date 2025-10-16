@@ -13,6 +13,5 @@ It performs basic arithmetic operations like addition, subtraction, multiplicati
 - CSS  
 - JavaScript  
 
-## Author
-**Aysha Naza KP**  
-GitHub: [https://github.com/yourusername](https://github.com/yourusername)
+
+
